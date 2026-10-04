@@ -36,7 +36,7 @@ Feel free to connect with me for backend development, software engineering, or c
 - 🚀 &nbsp; I’m currently exploring Design Patterns, Clean Architecture, and Cloud Technologies.
 - 💬 &nbsp; Ask me anything about backend development and .NET.
 - 👾 &nbsp; Fun fact: I enjoy transforming ideas into backend systems.
-- 📫 &nbsp; Reach me out: medo66reda6677@gmail.com
+- 📫 &nbsp; Reach me out: mahmoudzahra015@gmail.com
 
 ---
 
@@ -137,7 +137,8 @@ Feel free to connect with me for backend development, software engineering, or c
 ### Featured Projects:
 
 - Real Estate Services System  
-- E-Commerce Website  
+- E-Commerce Website
+- Home Maintenance
 - Entertainment Travel Booking Website  
 - Student Management System  
 - Examination System  
